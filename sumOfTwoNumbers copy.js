@@ -1,4 +1,4 @@
-function sumOfTwoNumbers(a,b) {
+const sumOfTwoNumbers(a,b) {
     return a + b
 }
 
