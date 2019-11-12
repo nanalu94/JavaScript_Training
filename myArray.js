@@ -1,4 +1,4 @@
-for (let I=1;i<10;i++0
+for (let i=1;i<10;i++)
      {
      console.log('loops are cool');
     }
