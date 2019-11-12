@@ -4,4 +4,4 @@ const evenOrOdd = (num) => {
     else 
     { return 'odd';}
 }
-    
+console.log(evenOrOdd(9));
