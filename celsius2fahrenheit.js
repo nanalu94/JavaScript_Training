@@ -1,6 +1,6 @@
 const Celsius2Fahrenheit =(Celsius)=> {
-let Fahrenheit = (Celsius - 32) / 1.8
+let Fahrenheit = Celsius * 1.8 + 32
             return Fahrenheit;
 }
-console.log (Celsius2Fahrenheit (32));
+console.log (Celsius2Fahrenheit (65));
             
