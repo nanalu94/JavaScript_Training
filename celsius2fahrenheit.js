@@ -1,5 +1,6 @@
-const Celsius2Fahrenheit = [(CelsiusTemp - 32) / 1.8]=> { 
-            return
+const Celsius2Fahrenheit (Celsius) {
+let Fahrenheit = Celsius - 32) / 1.8
+            return Fahrenheit;
 }
-console.log(CelsiusTemp 'in Celsius is' Celsius2fahrenheit);
+
             
