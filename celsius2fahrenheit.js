@@ -1,5 +1,5 @@
-const CelsiusTemp=Celsius{
-            let Celsius2Fahrenheit = (CelsiusTemp - 32) / 1.8;
+const Celsius2Fahrenheit = [(CelsiusTemp - 32) / 1.8]=> { 
+            return
 }
 console.log(CelsiusTemp 'in Celsius is' Celsius2fahrenheit);
             
